@@ -1,2 +1,2 @@
 Simple pracs of java!
-Theres even more
+Theres even more there will be basic java applications based on OOP!
