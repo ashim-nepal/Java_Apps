@@ -1,4 +1,4 @@
-![image](https://github.com/ashim-nepal/Java_Apps/assets/143585311/9a93d8fa-9725-4066-9204-865906b86d8d)## Java Course Management System - Application
+## Java Course Management System - Application
 # 
 
 This Repository consists of the files that I have done in creating a simple course management Application using java Swing. It asks for user registration, makes the authentication in the system and users are able to perform the task as per their role. Admin, Teacher and Student are the roles of users in this system.  The working of the system is also demonstrated below. Multiple users can login and register in the application. Data are stored relationally in XAMPP server. The main objective of this project is to understand something different and understand the OOP concept in building Application. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Java CMS Application🌾!!
@@ -121,6 +121,9 @@ Student Portal has ended theres no other wayy
 Student modules portal with 
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20143721.png)
 
+![image](https://github.com/ashim-nepal/Java_Apps/assets/143585311/9a93d8fa-9725-4066-9204-865906b86d8d)
+The database made in sql XAMPP has been still working
+
 Admin can generate report slip from insurance
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20144141.png)
 
@@ -134,14 +137,14 @@ Teacher is also included in the final insights dashboard of admin
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20144831.png)
 
 
-The database made in sql XAMPP has been still working
+
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20145933.png)
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150027.png)
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150034.png?)
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150044.png)
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150100.png)
 ![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150110.png)
-![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150119.png?raw=true_
+![app-1](https://github.com/ashim-nepal/Java_Apps/blob/main/java_cms/screenshots/Screenshot%202024-07-04%20150119.png)
 
 
 
